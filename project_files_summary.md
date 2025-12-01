@@ -89,7 +89,7 @@ fortress-api/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/fortress-api.git
+git clone https://github.com/Zumboww/Fortress-API.git
 cd fortress-api
 
 # 2. Run the setup script (Linux/Mac)
