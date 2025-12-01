@@ -4,20 +4,20 @@ First off, thank you for considering contributing to Fortress API! It's people l
 
 ## 📋 Table of Contents
 
-- [Code of Conduct](#code-of-conduct)
-- [How Can I Contribute?](#how-can-i-contribute)
-- [Development Setup](#development-setup)
-- [Coding Standards](#coding-standards)
-- [Commit Guidelines](#commit-guidelines)
-- [Pull Request Process](#pull-request-process)
-- [Reporting Bugs](#reporting-bugs)
-- [Suggesting Features](#suggesting-features)
+- [Code of Conduct](#-code-of-conduct)
+- [How Can I Contribute?](#-how-can-i-contribute)
+- [Development Setup](#-development-setup)
+- [Coding Standards](#-coding-standards)
+- [Commit Guidelines](#-commit-guidelines)
+- [Pull Request Process](#-pull-request-process)
+- [Reporting Bugs](#-reporting-bugs)
+- [Suggesting Features](#-suggesting-features)
 
 ---
 
 ## 📜 Code of Conduct
 
-This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [your.email@example.com].
+This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [memoryaz98@gmail.com].
 
 ### Our Pledge
 
@@ -70,9 +70,9 @@ What you expected to happen.
 What actually happened.
 
 **Environment:**
-- OS: [e.g., Ubuntu 22.04, Windows 11]
-- Python Version: [e.g., 3.11.2]
-- FastAPI Version: [e.g., 0.104.1]
+- OS: [e.g., Ubuntu 24.04, Windows 11]
+- Python Version: [e.g., 3.14.0]
+- FastAPI Version: [e.g., 0.123.0]
 
 **Additional context**
 Add any other context, logs, or screenshots.
@@ -123,7 +123,7 @@ We actively welcome your pull requests! Here's how:
 
 ```bash
 # 1. Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/fortress-api.git
+git clone https://github.com/Zumboww/Fortress-API.git
 cd fortress-api
 
 # 2. Create a virtual environment
@@ -518,16 +518,6 @@ Contributors will be recognized in:
 - `CONTRIBUTORS.md` file
 - GitHub contributors page
 - Release notes (for significant contributions)
-
----
-
-## 📞 Getting Help
-
-- **Questions?** Open a [Discussion](https://github.com/YOUR_USERNAME/fortress-api/discussions)
-- **Issues?** Create an [Issue](https://github.com/YOUR_USERNAME/fortress-api/issues)
-- **Chat?** Join our [Discord/Slack] (if available)
-
----
 
 ## 📄 License
 
