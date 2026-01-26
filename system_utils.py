@@ -10,8 +10,8 @@ from system_exceptions import InvalidCredentialsException, ForbiddenException
 ACCESS_TOKEN_EXPIRE_MINUTES = 30  # 30 minutes
 REFRESH_TOKEN_EXPIRE_MINUTES = 60 * 24 * 7 # 7 days
 ALGORITHM = "HS256"
-JWT_SECRET_KEY = os.environ.get("JWT_SECRET_KEY", "Qwqwqw121212")   # should be kept secret
-JWT_REFRESH_SECRET_KEY = os.environ.get("JWT_REFRESH_SECRET_KEY", "Qwqwqw121212Refresh")    # should be kept secret
+JWT_SECRET_KEY = os.environ.get("JWT_SECRET_KEY", "Hard_Secret_Key")   # should be kept secret
+JWT_REFRESH_SECRET_KEY = os.environ.get("JWT_REFRESH_SECRET_KEY", "Hard_Secret_Key_Refresh")    # should be kept secret
 pwd_context = CryptContext(schemes=["argon2"], deprecated="auto")
 oauth2_schema = OAuth2PasswordBearer(tokenUrl="token")
 
